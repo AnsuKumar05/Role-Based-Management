@@ -1,0 +1,23 @@
+# Dependencies
+node_modules/
+frontend/node_modules/
+
+# .NET Build outputs
+backend/bin/
+backend/obj/
+backend/appsettings.json
+bin/
+obj/
+
+# Visual Studio & IDEs
+.vs/
+.vscode/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# OS files
+.DS_Store
+Thumbs.db
+run-project.bat

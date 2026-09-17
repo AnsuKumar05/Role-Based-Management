@@ -1,0 +1,10 @@
+global using System;
+global using System.Collections.Generic;
+global using System.Linq;
+global using System.Threading;
+global using System.Threading.Tasks;
+global using HotelManagementSystem.Domain.Entities;
+global using HotelManagementSystem.Domain.Constants;
+global using HotelManagementSystem.Application.DTOs;
+global using HotelManagementSystem.Application.Interfaces;
+global using HotelManagementSystem.Application.Interfaces.Repositories;
